@@ -24,7 +24,7 @@ for x in val: # enhanced for loop not need to give range here
 print('\n')
 
 print(val.typecode)
-
+i = int ,, d = float  ,, u = char
 val.reverse() # feature is directly val array is reverse without store in another array
 
 for x in val:
@@ -179,3 +179,4 @@ print(four)
 
 '''
 # complete array of python
+
