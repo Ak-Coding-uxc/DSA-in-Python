@@ -27,7 +27,3 @@ in root.right node.
 2) Inorder :- 2 3 4 1 5 8
 
 3) Postorder :- 2 4 3 8 5 1 
-
-
-
-hello how are you just checking
